@@ -1,0 +1,5 @@
+name: SpeedSleeping
+version: 1.0.0
+author: DrChicken
+description: Lets spend the night if only half of the connected players sleep.
+main: drchicken.plug.speedsleeping.SpeedSleeping
